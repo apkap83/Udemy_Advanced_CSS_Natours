@@ -19,7 +19,7 @@ html {
 
   @include respond(phone) {
     // max-wdith: 600px -> width <= 600px
-    font-size: 40%;
+    font-size: 50%;
   }
 }
 

@@ -1,5 +1,5 @@
 /*
-0px     - 600 px  - Phone
+0px     - 600px   - Phone
 600px   - 900px   - Table - Portait
 900px   - 1200px  - Table - Landscape
 1200px  - 1800px  - Table - Dekstop (normal styles apply)
@@ -39,7 +39,7 @@ html {
 }
 @media (max-width: 37.5em) {
   html {
-    font-size: 40%;
+    font-size: 50%;
   }
 }
 

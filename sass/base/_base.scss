@@ -46,3 +46,8 @@ body {
   padding: 0;
   box-sizing: inherit;
 }
+
+::selection {
+  background-color: $color-primary;
+  color: $color-white;
+}
